@@ -1,0 +1,56 @@
+### IntelliJ IDEA ###
+.idea/
+*.iws
+*.iml
+*.ipr
+out/
+
+### Java ###
+# Compiled class files
+*.class
+
+# Log files
+*.log
+
+# BlueJ files
+*.ctxt
+
+# Package Files
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# Build directories
+target/
+build/
+
+# Maven
+pom.xml.versionsBackup
+dependency-reduced-pom.xml
+mvnw
+.mvn/
+
+# Gradle
+.gradle/
+build/
+!gradle/wrapper/gradle-wrapper.jar
+
+# VS Code
+.vscode/
+
+# Eclipse
+.settings/
+bin/
+.metadata/
+
+# MacOS
+.DS_Store
+
+# Other
+*.swp
+*.bak
+*.orig
+*~
